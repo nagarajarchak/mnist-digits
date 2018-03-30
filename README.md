@@ -18,7 +18,7 @@ The dataset is fed to an ANN and Mini-Batch Neural Network and each of these use
 
 > Hyperparameter Tuning
 
-- Learning Rate: 0.001.
+- Learning Rate: 0.001
 - Hidden Layers: 3
 - Hidden Units: 100
 - Number of Epochs: 50
