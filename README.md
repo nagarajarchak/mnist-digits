@@ -8,7 +8,7 @@ The dataset consists of:
   
 Each handwritten digit is grayscale image of dimension 28 x 28 pixels. Here are a few typical MNIST digits:
 
-<img src="https://github.com/nagarajarchak/MNISTDigits/blob/master/images/DigitImage5.png" height="33%" width="33%"> <img src="https://github.com/nagarajarchak/MNISTDigits/blob/master/images/DigitImage8.png" height="33%" width="33%"> <img src="https://github.com/nagarajarchak/MNISTDigits/blob/master/images/DigitImage9.png" height="33%" width="33%">
+<img src="https://github.com/nagarajarchak/MNISTDigits/blob/master/images/DigitImage5.png" height="33%" width="33%"> <img src="https://github.com/nagarajarchak/MNISTDigits/blob/master/images/DigitImage8.png" height="33%" width="33%"> <img src="https://github.com/nagarajarchak/MNISTDigits/blob/master/images/DigitImageNine.png" height="33%" width="33%">
 
 The dataset is fed to an ANN and Mini-Batch Neural Network and each of these use Gradient Descent, RMSProp and Adam optimizers with a ReLU activation function.
 
