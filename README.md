@@ -8,12 +8,12 @@ The dataset consists of:
   
 Each handwritten digit is grayscale image of dimension 28 x 28 pixels. Here are a few typical MNIST digits:
 
-<img src="https://github.com/nagarajarchak/MNISTDigits/blob/master/Images/DigitImage5.png" height="33%" width="33%"> <img src="https://github.com/nagarajarchak/MNISTDigits/blob/master/Images/DigitImage8.png" height="33%" width="33%"> <img src="https://github.com/nagarajarchak/MNISTDigits/blob/master/Images/DigitImage9.png" height="33%" width="33%">
+<img src="https://github.com/nagarajarchak/MNISTDigits/blob/master/images/DigitImage5.png" height="33%" width="33%"> <img src="https://github.com/nagarajarchak/MNISTDigits/blob/master/images/DigitImage8.png" height="33%" width="33%"> <img src="https://github.com/nagarajarchak/MNISTDigits/blob/master/images/DigitImage9.png" height="33%" width="33%">
 
 The dataset is fed to an ANN and Mini-Batch Neural Network and each of these use Gradient Descent, RMSProp and Adam optimizers with a ReLU activation function.
 
 ### Neural Network Computation Graph
-<img src="https://github.com/nagarajarchak/MNISTDigits/blob/master/Images/Computation%20Graph.png" height="100%" width="100%">
+<img src="https://github.com/nagarajarchak/MNISTDigits/blob/master/images/Computation%20Graph.png" height="100%" width="100%">
 
 
 > Hyperparameter Tuning
@@ -30,7 +30,7 @@ The dataset is fed to an ANN and Mini-Batch Neural Network and each of these use
 ### Artificial Neural Network
 > Cross Entropy graphs for Gradient Descent, RMSProp and Adam Optimizers respectively.
 
-<img src="https://github.com/nagarajarchak/MNISTDigits/blob/master/Images/ANN%20Gradient%20Descent.png" height="33%" width="33%"> <img src="https://github.com/nagarajarchak/MNISTDigits/blob/master/Images/ANN%20RMSProp.png" height="33%" width="33%"> <img src="https://github.com/nagarajarchak/MNISTDigits/blob/master/Images/ANN%20Adam.png" height="33%" width="33%">
+<img src="https://github.com/nagarajarchak/MNISTDigits/blob/master/images/ANN%20Gradient%20Descent.png" height="33%" width="33%"> <img src="https://github.com/nagarajarchak/MNISTDigits/blob/master/images/ANN%20RMSProp.png" height="33%" width="33%"> <img src="https://github.com/nagarajarchak/MNISTDigits/blob/master/images/ANN%20Adam.png" height="33%" width="33%">
 
 > Accuracies for ANN
 
@@ -43,7 +43,7 @@ The dataset is fed to an ANN and Mini-Batch Neural Network and each of these use
 ### Mini-Batch Neural Network
 > Cross Entropy graphs for Gradient Descent, RMSProp and Adam Optimizers respectively.
 
-<img src="https://github.com/nagarajarchak/MNISTDigits/blob/master/Images/Cost%20graph%20-%20%20Gradient%20Descent%20Batch.png" height="33%" width="33%"> <img src="https://github.com/nagarajarchak/MNISTDigits/blob/master/Images/Cost%20Graph%20-%20RMSProp%20Batch.png" height="33%" width="33%"> <img src="https://github.com/nagarajarchak/MNISTDigits/blob/master/Images/Cost%20Graph%20-%20Adam%20Batches.png" height="33%" width="33%">
+<img src="https://github.com/nagarajarchak/MNISTDigits/blob/master/images/Cost%20graph%20-%20%20Gradient%20Descent%20Batch.png" height="33%" width="33%"> <img src="https://github.com/nagarajarchak/MNISTDigits/blob/master/images/Cost%20Graph%20-%20RMSProp%20Batch.png" height="33%" width="33%"> <img src="https://github.com/nagarajarchak/MNISTDigits/blob/master/images/Cost%20Graph%20-%20Adam%20Batches.png" height="33%" width="33%">
 
 > Accuracies for Mini-Batch NN
 
